@@ -1,2 +1,5 @@
 print('Hello, world!')
 print(12)
+print('please input your name: ')
+name = input()
+print('hello '+ name)
