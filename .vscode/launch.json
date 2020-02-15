@@ -7,6 +7,7 @@
         {"name":"Python: 当前文件","type":"python","request":"launch","program":"${file}","console":"integratedTerminal"},
         {
             "name": "Python: 当前文件",
+            "stopOnEntry": true,
             "type": "python",
             "request": "launch",
             "program": "${file}",
