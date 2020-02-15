@@ -21,5 +21,6 @@ index = my_new_string.find('-')
 print(index)
 
 new_string='123,456,789'
-children=new_string.split(',')
+children=new_string.split('7')
 print(children)
+
